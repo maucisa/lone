@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Nico maucisa</h1>
 <h3 align="center">front end developer in Jupiter</h3>
-<img align="right" alt ="coding" width="350"src="https://37.media.tumblr.com/c95dc33429844ed60e9dfcb0acbd7553/tumblr_n74rd1jnRI1tp95lfo1_500.gif">
+<img align="right" alt ="coding" width="330"src="https://37.media.tumblr.com/c95dc33429844ed60e9dfcb0acbd7553/tumblr_n74rd1jnRI1tp95lfo1_500.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maucisa&label=Profile%20views&color=0e75b6&style=flat" alt="maucisa" /> </p>
